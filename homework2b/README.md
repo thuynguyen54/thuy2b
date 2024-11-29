@@ -1,4 +1,10 @@
 # Final project: Syringe pump
+## Team members
+[Nguyen Minh Khon - BEBEIU21225]
+[Dang Mai Nhung - BEBEIU21254]
+[Nguyen Hoang Long - BEBEIU20215]
+[Pham Xuan Hoc - BEBEIU20292]
+[Nguyen Le Ngoc Thanh Thuy - BEBEIU21275]
 ## Introduction 
 A syringe pump is a device used to deliver precise amounts of fluid at specific intervals. It is commonly used in medical, laboratory, and industrial settings. Syringe pumps are critical in applications requiring high accuracy and control, such as drug delivery, chemical reactions, and research experiments.
 ## Objective 
@@ -8,5 +14,5 @@ The objective of this syringe pump project is to design and develop a precise fl
 ## Blockdiagram 
   ![blockdigram](blockdiagram.png)
 ## Statediagram
-  ![statedigram](statediagram.png)
+  ![statediagram](statediagram.png)
 
